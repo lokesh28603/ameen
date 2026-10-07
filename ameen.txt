@@ -1,5 +1,5 @@
 <html>
-<head><title>siddu siddartha</title></head>
+<head><title>siddu </title></head>
 <body>
 <p>this is demo on git commands</p>
 </body>
